@@ -1,0 +1,66 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-AU": {
+          "summary": "BAPS Swaminarayan",
+          "examplePhrases": [
+            "Alexa open baps swamianrayan",
+            "help"
+          ],
+          "name": "baps-swamianrayan",
+          "description": "BAPS Swaminarayan"
+        },
+        "en-CA": {
+          "summary": "BAPS Swaminarayan",
+          "examplePhrases": [
+            "Alexa open baps swamianrayan",
+            "help"
+          ],
+          "name": "baps-swamianrayan",
+          "description": "BAPS Swaminarayan"
+        },
+        "en-GB": {
+          "summary": "BAPS Swaminarayan",
+          "examplePhrases": [
+            "Alexa open baps swamianrayan",
+            "help"
+          ],
+          "name": "baps-swamianrayan",
+          "description": "BAPS Swaminarayan"
+        },
+        "en-IN": {
+          "summary": "BAPS Swaminarayan",
+          "examplePhrases": [
+            "Alexa open baps swamianrayan",
+            "help"
+          ],
+          "name": "baps-swamianrayan",
+          "description": "BAPS Swaminarayan"
+        },
+        "en-US": {
+          "summary": "BAPS Swaminarayan",
+          "examplePhrases": [
+            "Alexa open baps swamianrayan",
+            "help"
+          ],
+          "name": "baps-swamianrayan",
+          "description": "BAPS Swaminarayan"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "BAPS Swaminarayan",
+      "category": "RELIGION_AND_SPIRITUALITY",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom",
+          "uri": "ask-baps-swamianrayan"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
